@@ -1,2 +1,2 @@
-FROM Nginx
+FROM nginx
 COPY  *.html /var/www/html
